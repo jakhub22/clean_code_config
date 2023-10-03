@@ -7,7 +7,7 @@ export default function Home() {
     return (
         <div>
             <Nav />
-            <h1>Home</h1>
+            <h1>Home !!</h1>
             <div>{Hello()}</div>
             <div className='m-2 flex w-full items-center p-2 py-3'>{Bye()}</div>
         </div>
